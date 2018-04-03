@@ -16,7 +16,7 @@
     },
     {
       "login": "alejandronanez",
-      "name": "Alejandro Ñáñez Ortiz",
+      "name": "Alejandro Ñáñez",
       "avatar_url": "https://avatars0.githubusercontent.com/u/464978?v=3",
       "profile": "http://co.linkedin.com/in/alejandronanez/",
       "contributions": []
@@ -30,7 +30,7 @@
     },
     {
       "login": "MelinaMejia95",
-      "name": "Melina Mejía Bedoya",
+      "name": "Melina Mejía",
       "avatar_url": "https://avatars2.githubusercontent.com/u/19215389?v=3",
       "profile": "https://github.com/MelinaMejia95",
       "contributions": []
@@ -86,7 +86,7 @@
     },
     {
       "login": "juancapm09",
-      "name": "Juan Camilo Perez Morales",
+      "name": "Camilo Perez",
       "avatar_url": "https://avatars0.githubusercontent.com/u/19542631?v=3",
       "profile": "https://github.com/juancapm09",
       "contributions": []
@@ -100,7 +100,7 @@
     },
     {
       "login": "camigomez35",
-      "name": "Maria Camila Gomez Restrepo",
+      "name": "Camila Gomez",
       "avatar_url": "https://avatars2.githubusercontent.com/u/16061815?v=4",
       "profile": "https://github.com/camigomez35",
       "contributions": []
@@ -156,11 +156,10 @@
     },
     {
       "login": "SantiagoMolinaOrozco",
-      "name": "Santiago Molina Orozco",
+      "name": "Santiago Molina",
       "avatar_url": "https://avatars2.githubusercontent.com/u/17752391?v=4",
       "profile": "https://www.justbit.site",
-      "contributions": [
-      ]
+      "contributions": []
     },
     {
       "login": "luixaviles",
@@ -181,8 +180,7 @@
       "name": "Sherry",
       "avatar_url": "https://avatars2.githubusercontent.com/u/2563374?v=4",
       "profile": "https://github.com/sazimi",
-      "contributions": [
-      ]
+      "contributions": []
     },
     {
       "login": "marianvilla",
@@ -193,7 +191,7 @@
     },
     {
       "login": "cortizqgithub",
-      "name": "Carlos Adolfo Ortiz Q",
+      "name": "Carlos Ortiz",
       "avatar_url": "https://avatars1.githubusercontent.com/u/1557524?v=4",
       "profile": "http://theowlo.blogspot.com",
       "contributions": []
@@ -214,7 +212,7 @@
     },
     {
       "login": "CrisDan1905",
-      "name": "Cristian Danilo Gutiérrez",
+      "name": "Danilo Gutiérrez",
       "avatar_url": "https://avatars3.githubusercontent.com/u/22488812?v=4",
       "profile": "https://github.com/CrisDan1905",
       "contributions": []
@@ -225,6 +223,37 @@
       "avatar_url": "https://avatars1.githubusercontent.com/u/1154098?v=4",
       "profile": "https://twitter.com/bonnster75",
       "contributions": []
+    },
+    {
+      "login": "robinHurtado",
+      "name": "Robin Hurtado",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/19338528?v=4",
+      "profile": "https://github.com/robinHurtado",
+      "contributions": []
+    },
+    {
+      "login": "angelitaooo",
+      "name": "Angela Ordoñez",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/18565471?v=4",
+      "profile": "http://angelitaooo.github.io",
+      "contributions": [
+      ]
+    },
+    {
+      "login": "luchillo17",
+      "name": "Carlos Esteban Lopez Jaramillo",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/9698639?v=4",
+      "profile": "https://github.com/luchillo17",
+      "contributions": [
+      ]
+    },
+    {
+      "login": "nicobytes",
+      "name": "Nicolas Molina Monroy",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/7611944?v=4",
+      "profile": "http://nicobytes.com",
+      "contributions": [
+      ]
     }
   ]
 }
